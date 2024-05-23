@@ -1,12 +1,35 @@
-## <Portifólio em Construção 👨‍💻 >
-<!--
-<div align="left">
-  <a href="https://www.linkedin.com/in/gabrieltramontin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-   <a href="mailto:gabrieltramontin@alunos.utfpr.edu.br" target="_blank"><img src="https://play-lh.googleusercontent.com/D1Dz2BjPYev_oyksKXsdtAS66a_2Ql-sklpzTnwR9lqnDG_P5lAJEtfR70FudJ0XMA=s48-rw" style='width:28px' target="_blank"></a>  
-</div>
--->
+## <Portifólio em Construção>
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=gabrielstramontin&show_icons=true&theme=dark&locale=en" alt="gabrielstramontin"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielstramontin&show_icons=true&theme=dark&locale=en&layout=compact" alt="gabrielstramontin"/>
+<h3> 👦🏼&nbsp;About Me </h3>
+
+- Exploring new technologies ...
+- Studying Systems Analysis and Development at XP Educação.
+- Working as [ ]  at [ ] .
+- Learning more about Artificial Intelligence, Cloud Computing and Cybersecurity.
+
+
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+- 💻 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  
+<br/>
+
+<a href="https://github.com/gabrielstramontin">
+  <img height="180em"" src="https://github-readme-stats.vercel.app/api?username=gabrielstramontin&show_icons=true&theme=dark&locale=en" alt="gabrielstramontin"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielstramontin&show_icons=true&theme=dark&locale=en&layout=compact" alt="gabrielstramontin"/>
+</a>
+
+<br/>
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="left">
+<a href="#" title="Gmail"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:gabrieltramontin@alunos.utfpr.edu.br" alt="Gmail"/></a>
+<a href="#" title="LinkedIn"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrieltramontin/" alt="LinkedIn"/></a>
 </p>
