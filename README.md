@@ -4,9 +4,7 @@
 
 - Exploring new technologies ...
 - Studying Systems Analysis and Development at XP Educação.
-- Working as IT Support Analyst at Kyndryl.
-- Learning more about Artificial Intelligence, Cloud Computing and Cybersecurity.
-
+- Learning more about Cloud Security.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
