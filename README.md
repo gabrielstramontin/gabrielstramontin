@@ -28,6 +28,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="left">
-<a href="mailto:gabrieltramontin@alunos.utfpr.edu.br"  title="Gmail"> <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:gabrieltramontin@alunos.utfpr.edu.br"></a>
+<a href="mailto:gabrielstramontin@gmail.com"  title="Gmail"> <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:gabrielstramontin@gmail.com"></a>
 <a href="https://www.linkedin.com/in/gabrieltramontin/" title="LinkedIn"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrieltramontin/"></a>
 </p>
